@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Centered within 66dp safe zone (radius 33dp around 54,54) -->
+    <!-- Main Ledger Shield Card -->
+    <path
+        android:fillColor="#1E88E5"
+        android:pathData="M34,30 C34,27.8 35.8,26 38,26 L70,26 C72.2,26 74,27.8 74,30 L74,78 C74,80.2 72.2,82 70,82 L38,82 C35.8,82 34,80.2 34,78 Z" />
+
+    <!-- Ledger Spine & Header -->
+    <path
+        android:fillColor="#1565C0"
+        android:pathData="M34,26 L42,26 L42,82 L34,82 Z" />
+    <path
+        android:fillColor="#0D47A1"
+        android:pathData="M42,26 L74,26 L74,38 L42,38 Z" />
+
+    <!-- Rupee symbol and lines on ledger -->
+    <!-- Rupee symbol in Gold -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M51,44 L65,44 M51,48 L65,48 M51,44 L51,55 C54.5,55 58,54 58,51 C58,47 51,47 51,47 M56,53 L64,64 M51,44 L56,44"
+        android:strokeWidth="2.2"
+        android:strokeColor="#FFD54F" />
+
+    <!-- Growth Graph Bar / Accent -->
+    <path
+        android:fillColor="#00E676"
+        android:pathData="M46,73 L49,73 L49,67 L46,67 Z M52,73 L55,73 L55,63 L52,63 Z M58,73 L61,73 L61,59 L58,59 Z" />
+
+    <!-- AI Sparkle Badge on top right -->
+    <path
+        android:fillColor="#FFCA28"
+        android:pathData="M73,23 C73,26.5 76,28 78,28 C76,28 73,29.5 73,33 C73,29.5 70,28 68,28 C70,28 73,26.5 73,23 Z" />
+    <path
+        android:fillColor="#FFF59D"
+        android:pathData="M66,35 C66,36.5 67.5,37 68.5,37 C67.5,37 66,37.5 66,39 C66,37.5 64.5,37 63.5,37 C64.5,37 66,36.5 66,35 Z" />
+</vector>

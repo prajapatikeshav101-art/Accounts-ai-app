@@ -1,0 +1,6 @@
+{
+  "name": "Prajapati Accounts AI",
+  "description": "Complete Accounting, Inventory, GST, Excel and AI Business Management Platform for Android",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
